@@ -1,6 +1,6 @@
 # Hi there, I'm Ujjawal Dixit 👋
 
-### 💻 Software Developer | Full Stack Developer | Java & DSA Enthusiast
+### 💻 Software Developer | Full Stack Developer 
 
 I am a Computer Science undergraduate passionate about building
 full-stack applications and solving real-world problems through
